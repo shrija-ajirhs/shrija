@@ -1,0 +1,26 @@
+/* nav {
+  background-color: rgb(127, 192, 192);
+  padding: 0px; 
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%; 
+  display: flex; 
+  justify-content: left; 
+  gap: 20px; 
+  z-index: 5; 
+  text-color:blue;
+}
+
+
+nav a {
+  color: rgb(199, 61, 61); 
+  text-decoration: none; 
+  padding: 10px 15px; 
+  display: block; 
+  font-size: 20px;
+}
+
+nav a:hover {
+  background-color: rgb(216, 209, 209); 
+  } */
